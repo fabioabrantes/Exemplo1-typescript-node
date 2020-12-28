@@ -15,7 +15,7 @@
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta `cd typescript`;
+2. Entre na pasta `cd Exemplo1-typescript-node`;
 3. Rode `yarn` dentro da pasta do projeto salvo para instalar as dependências ;
 4. Na pasta execute `yarn dev:server` pra iniciar o servidor de desenvolvimento;
 
